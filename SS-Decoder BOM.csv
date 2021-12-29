@@ -1,0 +1,8 @@
+Componant,Description,Quantity,Additional Comment
+"R1, R2, R3, R4",10K-30K,4,"For best quality, use ±1% or lower tolerance"
+"R7, R8, R9, R10",50K-200K,4,"For best quality, use ±1% or lower tolerance"
+"R5, R6",30K-200K,2,"For best quality, use ±1% or lower tolerance"
+"C1, C2",10uF,2,>= 10v
+"Q1, Q2",2N3904,2,Can be subsituted with most other NPN transistors
+L7805, 5v Voltage Regulator,1,Optional componant
+Solderless Breadboard,400 hole,1,Optional componant
