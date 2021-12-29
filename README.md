@@ -1,1 +1,1 @@
-# ss-decoder
+# 2 Transistor Surround Sound Decoder / Vocal Remover
