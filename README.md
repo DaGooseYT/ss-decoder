@@ -25,5 +25,5 @@ Refer to the schematic diagram to follow these steps.
 ## Licensing & Attribution
 - Everything in this repository (including the schematic and BOM) are licensed under the BSD 3-Cause license. Refer to `LICENSE` for more info.
 - Apart from the conditions in the `LICENSE` file, if you choose to showcase the contents of this repository (modified or not) in a presentation or video, please provide attribution or disclaimer somewhere (such as the video description) in the following format:
-`The Surround Sound Decoder (Vocal Remover) schematic/circuit was initially provided by DaGoose.
+`The Surround Sound Decoder (Vocal Remover) circuit was initially provided by DaGoose.
 Original project source: https://github.com/DaGooseYT/ss-decoder.`
