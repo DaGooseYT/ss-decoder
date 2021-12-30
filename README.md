@@ -1,6 +1,8 @@
 # Two Transistor Surround Sound Decoder / Vocal Remover Preamplifier
 A very simple two transistor surround sound decoder or vocal remover preamplifier based off two Class A audio amplifiers. This method of surround sound decoding simply isolates the out of phase audio in a stereo mix.
 
+Watch the video on how to build: https://youtu.be/4wfMt4YOYYA
+
 ![alt text][s]
 
 [s]: https://github.com/DaGooseYT/ss-decoder/blob/main/schematic.png
