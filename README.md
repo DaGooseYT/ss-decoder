@@ -22,14 +22,11 @@ Refer to the schematic diagram to follow these steps.
 
 1. Connect a linear audio source to resistors `R5` and `R6`. **The audio source must be a stereo mix.**
 2. Connect the input of your audio amplifier to the output of the preamplifier on the collector pins of transistors `Q1` and `Q2`.
-3. Change the resistance of `R5` or `R6` to change the gain of the preamplifier, if the output sound is too loud or too quiet.
+3. Change the resistance of `R5` or `R6` to change the gain of the preamplifier; if the output volume is too loud or too quiet.
 
 ## Troubleshooting
 - **Mid-high range frequency constant click/popping sound:** This is caused by wireless interference. The circuit is not protected from EMF interference. Please remove any wireless devices (such as a cellphone) 10 feet away from the circuit or turn them on airplane mode while in use.
 - **Some vocals/mono audio sound is still leaking into the Out of Phase audio:** Assuming that the audio you are playing doesn't natively have any vocals in the Out of Phase audio, If you haven't done so already, it is important that you use ±1% tolerance resistors or less to limit this from happening. Regardless, Vocals can still leak through as a result of the diodes in the NPN transistors having reverse current leakage.
 
 ## Licensing & Attribution
-- Everything in this repository (including the schematic and BOM) are licensed under the BSD 3-Cause license. Refer to `LICENSE` for more info.
-- Apart from the conditions in the `LICENSE` file, if you choose to showcase the contents of this repository (modified or not) in a presentation or video, please provide attribution or disclaimer somewhere (such as the video description) in the following format:            
-`The Surround Sound Decoder (Vocal Remover) circuit was initially provided by DaGoose.
-Original project source: https://github.com/DaGooseYT/ss-decoder.`
+- This repo is licensed under the BSD 3-Cause license. Any images are licensed under CC BY-SA 3.0. Refer to `LICENSE` for more info.
