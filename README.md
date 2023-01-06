@@ -10,12 +10,12 @@ Watch the video on how to build: https://youtu.be/4wfMt4YOYYA
 ## Features & Usage
 
 ### Features
-- Low power consumption: ~10mA @5v
+- Low power consumption: ~10mA @5v.
 - No frequency band limitations on output.
-- Can be used with virtually any audio amplifier at any power output
-- Very high linear quality, being based on the Class A audio amplifier
-- Small and simple design; makes it easy to integrate into any application
-- Can accept any linear input, including but not limited to Bluetooth devices.
+- Can be used with virtually any linear input audio amplifier at any power output.
+- Very high linear quality, being based on the Class A audio amplifier.
+- Small and low cost design; makes it easy to integrate into any application.
+- Can accept any linear input, including but not limited to Bluetooth devices with proper DACs.
 
 ### Usage
 Refer to the schematic diagram to follow these steps.
